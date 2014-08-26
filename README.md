@@ -10,7 +10,6 @@ $ heroku config:set \
   SLACK_PASSWORD="..." \
   SLACK_TEAM="tqhouse" \
   SLACK_USERNAME="ellen" \
-  SYOBOI_CALENDAR_CHANNEL_IDS="1,3,4,5,6,7,8,19,187" \
   TZ="Asia/Tokyo"
 $ git push heroku master
 $ heroku scale bot=1
