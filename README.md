@@ -24,4 +24,4 @@ $ git push heroku master
 https://github.com/yoshiori/padomi/fork
 
 ## Contact
-https://github.com/r7kamura/padomi/issues/new
+https://github.com/yoshiori/padomi/issues/new
